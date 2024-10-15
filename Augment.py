@@ -34,8 +34,7 @@ def draw_bounding_box_and_crop(img , imgColor):
     return imgColor, cropped_img
 
 def four_point_transform(im, ran, width, height):
-    # obtain a consistent order of the points and unpack them
-    # individually
+    # obtain a consistent order of the points and unpack them individually
     randomChoice = ran[0]
     ran = ran[1]
     if randomChoice == 1:
@@ -61,9 +60,7 @@ def four_point_transform(im, ran, width, height):
     maxHeight = max(int(np.sqrt(((tr[0] - br[0]) ** 2) + ((tr[1] - br[1]) ** 2))),
                     int(np.sqrt(((tl[0] - bl[0]) ** 2) + ((tl[1] - bl[1]) ** 2))))
 
-    # construct the set of destination points to obtain a "birds eye view",
-    # (i.e. top-down view) of the image, specifying points in the order
-    # (tl, tr, br, bl)
+    # construct the set of destination points to obtain warped view (i.e. top-down view) of the image
     dst = np.array([
         [0, 0],
         [maxWidth - 1, 0],
