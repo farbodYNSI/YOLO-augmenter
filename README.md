@@ -25,8 +25,8 @@ The black and white object image is used to ensure consistent object detection a
 
 | Background | Output |
 | -------- | -------- |
-| (Demo/bg0.jpg) | (Demo/aug0.jpg) |
-| (Demo/bg1.jpg) | (Demo/aug1.jpg) |
-| (Demo/bg2.jpg) | (Demo/aug2.jpg) |
-| (Demo/bg3.jpg) | (Demo/aug3.jpg) |
-| (Demo/bg4.jpg) | (Demo/aug4.jpg) |
+| ![background 0](Demo/bg0.jpg) | ![Augmented 0](Demo/aug0.jpg) |
+| ![Background 1](Demo/bg1.jpg) | ![Augmented 1](Demo/aug1.jpg) |
+| ![Background 2](images/bg2.png) | ![Augmented 2](Demo/aug2.jpg) |
+| ![Background 3](Demo/bg3.jpg) | ![Augmented 3](Demo/aug3.jpg) |
+| ![Background 4](Demo/bg4.jpg) | ![Augmented 4](Demo/aug4.jpg) |
