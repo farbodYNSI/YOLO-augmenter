@@ -23,11 +23,11 @@ The black and white object image is used to ensure consistent object detection a
 
 ## Output
 
-| Background | Output Image | YOLO Output |
+| Background | Output Image | YOLO Output(C,X,Y,W,H) |
 | -------- | -------- | -------- |
-| <img src="Demo/bg0.jpg" width="300"/> | <img src="Demo/aug0.jpg" width="300"/> | '0 0.15641 0.21968 0.19198 0.28923' |
-| <img src="Demo/bg1.jpg" width="300"/> | <img src="Demo/aug1.jpg" width="300"/> | '0 0.26058 0.61408 0.25645 0.45547' |
-| <img src="Demo/bg2.jpg" width="300"/> | <img src="Demo/aug2.jpg" width="300"/> | '0 0.20056 0.49363 0.21695 0.32625' | 
-| <img src="Demo/bg3.jpg" width="300"/> | <img src="Demo/aug3.jpg" width="300"/> | '0 0.12462 0.85333 0.13538 0.18051' |
-| <img src="Demo/bg4.jpg" width="300"/> | <img src="Demo/aug4.jpg" width="300"/> | '0 0.27254 0.32294 0.21088 0.37339' |
+| <img src="Demo/bg0.jpg" width="300"/> | <img src="Demo/aug0.jpg" width="300"/> | 0, 0.15641, 0.21968, 0.19198, 0.28923 |
+| <img src="Demo/bg1.jpg" width="300"/> | <img src="Demo/aug1.jpg" width="300"/> | 0, 0.26058, 0.61408, 0.25645, 0.45547 |
+| <img src="Demo/bg2.jpg" width="300"/> | <img src="Demo/aug2.jpg" width="300"/> | 0, 0.20056, 0.49363, 0.21695, 0.32625 | 
+| <img src="Demo/bg3.jpg" width="300"/> | <img src="Demo/aug3.jpg" width="300"/> | 0, 0.12462, 0.85333, 0.13538, 0.18051 |
+| <img src="Demo/bg4.jpg" width="300"/> | <img src="Demo/aug4.jpg" width="300"/> | 0, 0.27254, 0.32294, 0.21088, 0.37339 |
 
