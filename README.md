@@ -20,3 +20,13 @@ To use this code, you will need:
 3. **Object Black and White Image**: A version of the object image where the background is black, and the object itself is white. This is similar to the Stop sign image available in the repository.
 
 The black and white object image is used to ensure consistent object detection and augmentation by distinguishing the object from the background. Make sure the black and white version of the object matches the shape and position of the original object image.
+
+## Output
+
+| Background | Output |
+| -------- | -------- |
+| ![Stop Sign](Demo/aug0.jpg) |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
