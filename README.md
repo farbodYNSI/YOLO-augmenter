@@ -19,7 +19,7 @@ To use this code, you will need:
 2. **Object Image**: The image of the object (e.g., sign or logo) you want to overlay on the background.
 3. **Object Black and White Image**: A version of the object image where the background is black, and the object itself is white. This is similar to the Stop sign image available in the repository.
 - for simplicity I have used .PNG for object images and .JPG for background images
-The black and white object image is used to ensure consistent object detection and augmentation by distinguishing the object from the background. Make sure the black and white version of the object matches the shape and position of the original object image.
+- The black and white object image is used to ensure consistent object detection and augmentation by distinguishing the object from the background. Make sure the black and white version of the object matches the shape and position of the original object image.
 
 
 | Stop | Stop B&W |
