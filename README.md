@@ -1,5 +1,3 @@
-<meta name="google-site-verification" content="TL2mt7kkIZRvADNsb0KNZrZekV2V46trRgDCnimeY2I" />
-
 # YOLO-augmenter
 Image Augmentation for Object Detection in YOLO Format
 
