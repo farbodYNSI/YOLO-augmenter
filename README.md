@@ -1,12 +1,3 @@
-<!DOCTYPE HTML>
-<!--
-    Dattatray Dagale
--->
-<html>
-<head>
-    <meta name="google-site-verification" content="TL2mt7kkIZRvADNsb0KNZrZekV2V46trRgDCnimeY2I" />
-</head>
-</html>
 # YOLO-augmenter
 Image Augmentation for Object Detection in YOLO Format
 
